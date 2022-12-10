@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.ant-select-multiple .ant-select-selection-item {
+	height: 27px;
+}
+
+button {
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
